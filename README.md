@@ -29,7 +29,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 
-<img src="https://github-readme-3d-profile.vercel.app/api/profile?username=RyzenHim&theme=tokyonight" />
+<!-- <img src="https://github-readme-3d-profile.vercel.app/api/profile?username=RyzenHim&theme=tokyonight" /> -->
 
 </div>
 
@@ -163,17 +163,17 @@ Certificate No.: EEPL/OJT/2024/001
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RyzenHim&theme=tokyonight&no-frame=true&row=1&column=7" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=RyzenHim&theme=tokyonight&no-frame=true&row=1&column=7" /> -->
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RyzenHim&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" /> 
 
 </div>
+
+<!-- <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RyzenHim&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>  -->
 
 ---
 
@@ -202,7 +202,8 @@ Certificate No.: EEPL/OJT/2024/001
 <img src="https://github-readme-stats.vercel.app/api?username=RyzenHim&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyzenHim&theme=tokyonight&hide_border=true" />
-
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenHim&layout=compact&theme=tokyonight&hide_border=true" /> 
 
 </div>
