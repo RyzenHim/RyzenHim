@@ -1,15 +1,41 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" />
+
 </div>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/RyzenHim?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/RyzenHim?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/RyzenHim/RyzenHim?style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Himanshu%20Upadhyay&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi, I'm Himanshu Upadhyay 👋</h1>
 <h3 align="center">MERN Stack Developer | MCA Graduate | Full-Stack Engineer</h3>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Himanshu%20Upadhyay&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+
+<img src="https://github-readme-3d-profile.vercel.app/api/profile?username=RyzenHim&theme=tokyonight" />
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+Systems;Always+Learning+New+Tech" />
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header" />
 
 ## 🚀 About Me
 
@@ -29,7 +55,45 @@ CGPA: 8.6
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&animation=fadeIn&text=Tech%20Stack&fontSize=30&fontColor=ffffff" />
+
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="52" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="48" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="48" />
+
+</div>
 
 <div align="center">
 
@@ -51,21 +115,11 @@ REGex Software Services, Jaipur (01/2025)
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&animation=fadeIn&text=Featured%20Projects&fontSize=30&fontColor=ffffff" />
+
 ## 📌 Featured Projects
-
-### 🎓 Learning Management System (LMS)
-
-> A scalable full-stack Learning Management System designed to manage courses, users, and authentication.
-
-* Secure authentication and role-based access (Admin / Instructor / Student)
-* Course creation, enrollment, and content management
-* RESTful APIs with structured validation and clean architecture
-* Responsive UI with Tailwind CSS
-* **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-
-<img src="https://user-images.githubusercontent.com/your-image-id/lms-preview.png" width="100%" />
-
----
 
 ### 🎬 MovieVerse
 
@@ -75,8 +129,9 @@ REGex Software Services, Jaipur (01/2025)
 * Backend APIs for efficient data handling
 * Responsive design & performance optimization
 * **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+* **Live Demo:** [https://movie-site-frontend-vn43.onrender.com/](https://movie-site-frontend-vn43.onrender.com/)
 
-<img src="https://user-images.githubusercontent.com/your-image-id/movieverse-preview.png" width="100%" />
+<img src="./assets/movieverse.png" width="100%" alt="MovieVerse Screenshot" />
 
 ---
 
@@ -87,8 +142,9 @@ REGex Software Services, Jaipur (01/2025)
 * Pixel-accurate UI replication
 * Reusable components
 * Styling consistency
+* **Live Demo:** [https://ryzenhim.github.io/myntra-clone/](https://ryzenhim.github.io/myntra-clone/)
 
-<img src="https://user-images.githubusercontent.com/your-image-id/myntra-preview.png" width="100%" />
+<img src="./assets/myntra.png" width="100%" alt="Myntra Clone Screenshot" />
 
 ---
 
@@ -99,10 +155,13 @@ REGex Software Services, Jaipur (01/2025)
 * Clean UI layouts
 * Responsive design
 * Structured content
+* **Live Demo:** [https://ryzenhim.github.io/mY-portfolio/](https://ryzenhim.github.io/mY-portfolio/)
 
-<img src="https://user-images.githubusercontent.com/your-image-id/portfolio-preview.png" width="100%" />
+<img src="./assets/portfolio.png" width="100%" alt="Portfolio Screenshot" />
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header" />
 
 ## 📜 Certifications
 
@@ -112,7 +171,19 @@ Certificate No.: EEPL/OJT/2024/001
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&animation=fadeIn&text=Achievements&fontSize=30&fontColor=ffffff" />
+
 ## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RyzenHim&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" />
+
+</div>
 
 <div align="center">
 
@@ -122,7 +193,19 @@ Certificate No.: EEPL/OJT/2024/001
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&animation=fadeIn&text=Contribution%20Activity&fontSize=30&fontColor=ffffff" />
+
 ## 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyzenHim&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-3d-profile.vercel.app/api/profile?username=RyzenHim&theme=tokyonight" />
+
+</div>
 
 <div align="center">
 
@@ -132,7 +215,21 @@ Certificate No.: EEPL/OJT/2024/001
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&animation=fadeIn&text=GitHub%20Stats&fontSize=30&fontColor=ffffff" />
+
 ## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RyzenHim&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyzenHim&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenHim&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <div align="center">
 
@@ -146,11 +243,17 @@ Certificate No.: EEPL/OJT/2024/001
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&animation=fadeIn&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff" />
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/himanshuamulyaupadhyay/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -158,7 +261,7 @@ Certificate No.: EEPL/OJT/2024/001
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://ryzenhim.github.io/mY-portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -170,7 +273,27 @@ Certificate No.: EEPL/OJT/2024/001
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header" />
+
 ## 🎯 Career Objective
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&animation=fadeIn&text=Currently%20Building&fontSize=30&fontColor=ffffff" />
+
+## 🛠️ Currently Building
+
+### 🎓 Learning Management System (In Production)
+
+> A production-grade LMS focused on scalability, security, and clean system design.
+
+* Modular backend architecture
+* Secure authentication & authorization
+* Course lifecycle management
+* REST APIs with validation
+* Modern React UI with Tailwind CSS
+
+*Teaser only — full public release coming soon.*
 
 To contribute to real-world products as a Full-Stack Developer while continuously improving code quality, system performance, and software architecture skills.
 
@@ -178,6 +301,8 @@ To contribute to real-world products as a Full-Stack Developer while continuousl
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RyzenHim&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=RyzenHim&style=for-the-badge&color=blue" />
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" />
 
 </div>
