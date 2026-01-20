@@ -13,12 +13,16 @@
 <img src="https://img.shields.io/github/last-commit/RyzenHim/RyzenHim?style=for-the-badge" />
 
 </div>
+
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Full-Stack%20MERN%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">Hi, I'm Himanshu 👋</h1>
-<h3 align="center">MERN Stack Developer | MCA Graduate | Full-Stack Engineer</h3>
+<h1>Hi, I'm Himanshu 👋</h1>
+<h3>MERN Stack Developer | MCA Graduate | Full-Stack Engineer</h3>
+
 </div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Building%20Production-Ready%20Systems&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -30,13 +34,19 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+Architecture+%7C+Scalable+Systems;Always+Learning+New+Tech" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+Architecture+%7C+Scalable+Systems;Always+Learning+New+Tech" />
+
 </div>
 
 ---
+
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header" />
+
 </div>
+
 ## 🚀 About Me
 
 MERN Stack Developer and MCA graduate with hands-on experience in building scalable full-stack web applications. Strong foundation in React-based UI development, RESTful APIs, and MongoDB-backed systems. Actively seeking opportunities to contribute to real-world products while continuously improving code quality, performance, and system design.
@@ -54,9 +64,13 @@ Ranchi University (2018 – 2021)
 CGPA: 8.6  
 
 ---
+
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&animation=fadeIn&text=Tech%20Stack&fontSize=30&fontColor=ffffff" />
+
 </div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
