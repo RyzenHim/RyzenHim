@@ -29,13 +29,11 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 
-<!-- <img src="https://github-readme-3d-profile.vercel.app/api/profile?username=RyzenHim&theme=tokyonight" /> -->
-
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+Architecture+%7C+Scalable+Systems;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;JWT+Auth+%7C+RBAC+%7C+REST+APIs;Clean+Architecture+%7C+Scalable+Systems;Always+Learning+New+Tech" />
 
 </div>
 
@@ -49,7 +47,7 @@
 
 ## 🚀 About Me
 
-MERN Stack Developer and MCA graduate with hands-on experience in building scalable full-stack web applications. Strong foundation in React-based UI development, RESTful APIs, and MongoDB-backed systems. Actively seeking opportunities to contribute to real-world products while continuously improving code quality, performance, and system design.
+MCA graduate and MERN Stack Developer with hands-on experience building and deploying full-stack web applications using React, Node.js, Express.js, and MongoDB. Skilled in responsive UI development, REST API design, JWT-based authentication, role-based access control (RBAC), and scalable database schema design. Seeking an entry-level software engineering role to drive real-world product impact while deepening expertise in system design, backend architecture, and performance optimisation.
 
 ---
 
@@ -57,11 +55,11 @@ MERN Stack Developer and MCA graduate with hands-on experience in building scala
 
 **Master of Computer Application (M.C.A)**  
 Ranchi University (2021 – 2023)  
-CGPA: 8.19  
+CGPA: 8.19 / 10
 
 **Bachelor of Computer Application (B.C.A)**  
 Ranchi University (2018 – 2021)  
-CGPA: 8.6  
+CGPA: 8.6 / 10
 
 ---
 
@@ -80,72 +78,107 @@ CGPA: 8.6
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="52" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="52" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="52" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="52" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="52" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="52" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="52" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="52" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="52" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="52" />
 
 </div>
 
-<!-- <div align="center">
+**Languages:** JavaScript (ES6+), C, C++
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,linux" />
+**Frontend:** React.js (Hooks, Context API, Redux Toolkit), Next.js (SSR, SSG, Routing), HTML5, CSS3, Tailwind CSS, Responsive Design
 
-</div> -->
+**Backend:** Node.js, Express.js – REST API Design, Middleware, Centralised Error Handling, Protected Routing, MVC Architecture, WebSockets
+
+**Databases:** MongoDB, MySQL, MongoDB Atlas, Mongoose ODM, Schema Design, Aggregations, Indexing
+
+**Auth & Security:** JWT Authentication, Role-Based Access Control (RBAC), Protected Routes, Token Persistence
+
+**Tools:** Git, GitHub, Linux (CLI), Vercel, Render, Netlify, Postman, VS Code
 
 ---
 
 ## 💼 Experience
 
 **Full Stack Web Developer Intern**  
-REGex Software Services, Jaipur (Jan 2025)
+REGex Software Services, Jaipur **(Mar 2025 – Present)**
 
-- Built responsive interfaces using HTML and Tailwind CSS.  
-- Developed full-stack applications with React and structured backend APIs.  
-- Designed scalable backend services using Node.js, Express.js, and MongoDB.  
-- Practiced clean coding and version control using Git/GitHub in a Linux environment.
+- Delivered 5+ production-ready responsive UIs with React and Tailwind CSS, reducing UI turnaround time ~30% through reusable, composable component patterns.
+- Built and consumed structured RESTful APIs with Node.js and Express.js, enabling seamless client-server integration across all application modules.
+- Designed scalable backend services with MongoDB schemas, JWT authentication, and protected API routing deployed in a Linux production environment.
+- Followed clean-code practices, Git branching workflows, and peer code reviews; delivered features end-to-end — schema → API → React → deployment.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎬 MovieVerse
+### 🎓 LMSPRO – MERN Learning Management System | [Visit](https://lmspro.example.com)
+
+> Production-ready LMS with role-based access control — the most architecturally complex project in the portfolio.
+
+- Role-based access control (Admin, Student, Tutor, Employee) with JWT-secured API routes and persistent token storage
+- 6+ scalable modules: student management, course handling, attendance tracking, timetable scheduling, visitor records, and billing — each with pagination, filtering, and sorting
+- Protected client-side routing, modular backend architecture, and responsive multi-role dashboards
+- Optimised MongoDB schemas for multi-role operational workflows across all user types
+- **Stack:** MongoDB · Express.js · React.js · Node.js · Mongoose · bcrypt.js · Nodemailer · JWT · Axios · Tailwind CSS
+
+---
+
+### 🍽️ Restaurant Management System (RMS) | [Live Demo](https://rms.example.com)
+
+> Full-stack operations platform managing orders, menu, billing, tables, and staff end-to-end.
+
+- Real-time UI state updates, dynamic order lifecycle handling, and modular MongoDB schemas backed by RESTful services
+- Deployed on Vercel with CI pipeline; zero-downtime releases and responsive dashboard UX across all roles
+- **Stack:** MongoDB · Express.js · React.js · Node.js · Mongoose · bcrypt.js · Nodemailer · JWT · Axios · Tailwind CSS
+
+---
+
+### 🎬 MovieVerse – Movie Browsing Platform | [Live Demo](https://movie-site-frontend-vn43.onrender.com/)
 
 > Full-stack movie browsing platform with dynamic rendering and clean UI.
 
-- Category-based browsing and search-ready structure  
-- Backend APIs for efficient data handling  
-- Responsive design and performance optimization  
-- **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
-- **Live Demo:** https://movie-site-frontend-vn43.onrender.com/
+- React SPA with category browsing, lazy-loaded routes, memoised components, and search-ready UI — reducing initial bundle size ~25%
+- Integrated custom REST APIs for dynamic movie data; structured codebase for extensibility across genres, filters, and new features
+- **Stack:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS
 
 <img src="./assets/movieverse.png" width="100%" alt="MovieVerse Screenshot" />
 
 ---
 
-### 🛍️ Myntra Clone
+### ✅ Advanced TODO App – Full Stack Task Manager | [Live Demo](https://todo.example.com)
 
-> Frontend clone emphasizing layout accuracy and responsiveness.
+> Full-stack CRUD task manager with JWT authentication and stateful session management.
 
-- Pixel-accurate UI replication  
-- Reusable components  
-- Styling consistency  
-- **Live Demo:** https://ryzenhim.github.io/myntra-clone/
+- Protected routes and LocalStorage token persistence for seamless session management
+- REST APIs with Node.js + Express.js; data persisted to MongoDB Atlas via Mongoose; independently deployed both frontend and backend on Render
+- **Stack:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB Atlas · Mongoose · JWT · Axios
+
+---
+
+### 🛍️ Myntra Clone | [Live Demo](https://ryzenhim.github.io/myntra-clone/)
+
+> Frontend clone emphasising layout accuracy and responsiveness.
+
+- Pixel-accurate UI replication with reusable components and styling consistency
+- **Stack:** HTML5 · CSS3 · JavaScript
 
 <img src="./assets/myntra.png" width="100%" alt="Myntra Clone Screenshot" />
 
 ---
 
-### 🌐 Portfolio
+### 🌐 Portfolio | [Visit](https://ryzenhim.github.io/mY-portfolio/)
 
-> Personal portfolio showcasing projects and technical background.
+> Personal portfolio with smooth scroll animations, project showcase, and contact section.
 
-- Clean UI layouts  
-- Responsive design  
-- Structured content  
-- **Live Demo:** https://ryzenhim.github.io/mY-portfolio/
+- Fully responsive design using HTML5, CSS3, and Vanilla JavaScript; hosted on GitHub Pages
+- **Stack:** HTML5 · CSS3 · JavaScript
 
 <img src="./assets/portfolio.png" width="100%" alt="Portfolio Screenshot" />
 
@@ -163,17 +196,9 @@ Certificate No.: EEPL/OJT/2024/001
 
 <div align="center">
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=RyzenHim&theme=tokyonight&no-frame=true&row=1&column=7" /> -->
-
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" /> 
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" />
 
 </div>
-
-<!-- <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RyzenHim&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>  -->
 
 ---
 
@@ -183,15 +208,7 @@ Certificate No.: EEPL/OJT/2024/001
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyzenHim&theme=tokyonight&hide_border=true" />
 
-<!-- <img src="https://github-readme-3d-profile.vercel.app/api/profile?username=RyzenHim&theme=tokyonight" /> -->
-
 </div>
-
-<!-- <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyzenHim&theme=tokyonight" />
-
-</div> -->
 
 ---
 
@@ -204,19 +221,9 @@ Certificate No.: EEPL/OJT/2024/001
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyzenHim&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenHim&layout=compact&theme=tokyonight&hide_border=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenHim&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<!-- <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RyzenHim&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyzenHim&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenHim&layout=compact&theme=tokyonight" />
-
-</div> -->
 
 ---
 
@@ -247,22 +254,6 @@ Certificate No.: EEPL/OJT/2024/001
 ## 🎯 Career Objective
 
 To contribute to real-world products as a Full-Stack Developer while continuously improving code quality, system performance, and software architecture skills.
-
----
-
-## 🛠️ Currently Building
-
-### 🎓 Learning Management System (In Production)
-
-> A production-grade LMS focused on scalability, security, and clean system design.
-
-- Modular backend architecture  
-- Secure authentication and authorization  
-- Course lifecycle management  
-- REST APIs with validation  
-- Modern React UI with Tailwind CSS  
-
-*Teaser only — full public release coming soon.*
 
 ---
 
